@@ -11,6 +11,7 @@
   inputs.src-nimmm-master.ref   = "refs/heads/master";
   inputs.src-nimmm-master.owner = "joachimschmidt557";
   inputs.src-nimmm-master.repo  = "nimmm";
+  inputs.src-nimmm-master.dir   = "";
   inputs.src-nimmm-master.type  = "github";
   
   inputs."noise".owner = "nim-nix-pkgs";

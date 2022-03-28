@@ -11,6 +11,7 @@
   inputs.src-nimmm-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-nimmm-v0_2_0.owner = "joachimschmidt557";
   inputs.src-nimmm-v0_2_0.repo  = "nimmm";
+  inputs.src-nimmm-v0_2_0.dir   = "";
   inputs.src-nimmm-v0_2_0.type  = "github";
   
   inputs."noise".owner = "nim-nix-pkgs";
